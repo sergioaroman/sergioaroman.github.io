@@ -1,11 +1,32 @@
 header{
-background-color:red
-
+ background-color:red;
+ 
 }
-  p{
-   color:black;
-   text-align:center;
-   font-size:40px;
+
+a {
+  font-size:50px;
+  color: black;
+}
+footer{
+background-color:blue
+}
+mob{
+width: 100px;
+height: 100px;
+}
+
+
+{
+ 
+}
+p {
+font-size:50px;
+color:white;
+}
+
+li {
+font-size: 25px;
+color: black;
 }
 
 .box1{
@@ -14,55 +35,7 @@ border:5px solid black;
 width:250px;
 height:250px;
 background-color:yellow;
-margin: 0 auto;
-padding:10px
-border-radius:10px;
+margin: 80px;
+padding:50px
  
 }
-
-body {
- width: 600px 
- margin: 0 auto;
- background-color:#77DD77
- 
-}
-
-
-ul {
-color: purple;
-text-align: center;
-}
-
-img {
- display: block;
- margin: 0 auto;
- width: 500px;
- border-radius: 10px;
-
-}
-
- href {
- text-align: center;
- font-size:40px;
-}
-.walter 
-{
-width:400px;
-height:380px;
-}
-
-.dimple
-{
-width:560px
- 
- href {
- text-align: center;
- font-size:50px;
-
-   ul {
-  margin;0 auto;
-   }
-
-   footer{
-   background-color:red
-   }
